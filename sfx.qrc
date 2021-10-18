@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sfx/lvlUp.mp3</file>
+        <file>sfx/stat.mp3</file>
+        <file>sfx/nop.mp3</file>
+        <file>sfx/confirm.mp3</file>
+        <file>sfx/deadUR.mp3</file>
+    </qresource>
+</RCC>

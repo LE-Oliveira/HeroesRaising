@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/mc">
+        <file>sprites/mc0.png</file>
+        <file>sprites/mc1.png</file>
+        <file>sprites/mc2.png</file>
+        <file>sprites/mc3.png</file>
+    </qresource>
+    <qresource prefix="/wolf">
+        <file>sprites/wolf0.png</file>
+        <file>sprites/wolf1.png</file>
+        <file>sprites/wolf2.png</file>
+        <file>sprites/wolf3.png</file>
+        <file>sprites/wolf4.png</file>
+        <file>sprites/wolf5.png</file>
+    </qresource>
+    <qresource prefix="/goblin">
+        <file>sprites/goblin0.png</file>
+        <file>sprites/goblin1.png</file>
+        <file>sprites/goblin2.png</file>
+    </qresource>
+    <qresource prefix="/flameskull">
+        <file>sprites/flameskull0.png</file>
+        <file>sprites/flameskull1.png</file>
+        <file>sprites/flameskull2.png</file>
+        <file>sprites/flameskull3.png</file>
+        <file>sprites/flameskull4.png</file>
+        <file>sprites/flameskull5.png</file>
+        <file>sprites/flameskull6.png</file>
+        <file>sprites/flameskull7.png</file>
+    </qresource>
+    <qresource prefix="/hydra">
+        <file>sprites/hydra0.png</file>
+        <file>sprites/hydra1.png</file>
+        <file>sprites/hydra2.png</file>
+        <file>sprites/hydra3.png</file>
+        <file>sprites/hydra4.png</file>
+        <file>sprites/hydra5.png</file>
+        <file>sprites/hydra6.png</file>
+        <file>sprites/hydra7.png</file>
+    </qresource>
+    <qresource prefix="/beholder">
+        <file>sprites/beholder0.png</file>
+        <file>sprites/beholder1.png</file>
+        <file>sprites/beholder2.png</file>
+        <file>sprites/beholder3.png</file>
+        <file>sprites/beholder4.png</file>
+        <file>sprites/beholder5.png</file>
+    </qresource>
+    <qresource prefix="/boss">
+        <file>sprites/boss0.png</file>
+        <file>sprites/boss1.png</file>
+        <file>sprites/boss2.png</file>
+        <file>sprites/boss3.png</file>
+        <file>sprites/boss4.png</file>
+        <file>sprites/boss5.png</file>
+        <file>sprites/boss6.png</file>
+        <file>sprites/boss7.png</file>
+    </qresource>
+</RCC>

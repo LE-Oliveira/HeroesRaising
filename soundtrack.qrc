@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>soundtrack/start.mp3</file>
+        <file>soundtrack/build.mp3</file>
+        <file>soundtrack/battleTheme.mp3</file>
+        <file>soundtrack/bossTheme.mp3</file>
+        <file>soundtrack/healing.mp3</file>
+        <file>soundtrack/shop1.mp3</file>
+        <file>soundtrack/shop2.mp3</file>
+        <file>soundtrack/shop3.mp3</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background/start.png</file>
+        <file>background/spaceground.png</file>
+        <file>background/profile.png</file>
+        <file>background/forest.jpg</file>
+        <file>background/fallen.jpg</file>
+        <file>background/inn2d.jpg</file>
+        <file>background/inventory.jpg</file>
+        <file>background/items.jpg</file>
+        <file>background/shop.jpg</file>
+        <file>background/boss.png</file>
+    </qresource>
+</RCC>
